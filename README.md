@@ -17,3 +17,24 @@ This study is part of a PhD thesis developped by <a href="https://perso.univ-ren
 --> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/raw/main/data.zip" target="_blank" rel="noopener"><strong>the data processed in the script</strong></a>
 <br>
 <br>
+
+
+----- VERSION FRANCAISE ----- <br>
+<i>Ce travail a été réalisé par <a href="https://perso.univ-rennes2.fr/arthur.ducasse" target="_blank">Arthur Ducasse</a> et <a href="https://perso.univ-rennes2.fr/florent.demoraes" target="_blank" rel="noopener">Florent Demoraes</a> au sein de l'unité de recherche CNRS ESO à Rennes (France), en mars 2023.</i>
+
+## Construction d'une typologie piétonne à partir d'une enquête ménages déplacements et cartographie des profils résultants : l'exemple de Bogota
+
+Ce blog présente une méthode pour concevoir une typologie de marcheurs à partir d'une Enquête Ménages Déplacements menée en 2019 à Bogotá, et disponible en <a href="https://www.simur.gov.co/encuestas-de-movilidad" target="_blank"> open data</a>. L'analyse combine des caractéristiques sociodémographiques des individus et des variables décrivant leurs pratiques de mobilité. Des cartes montrant la concentration des lieux de résidence des six profils de marcheurs sont également proposées. Les profils montrent clairement la mobilité du care, et de manière plus surprenante, la pratique de la marche chez les individus les plus aisés vivant dans les quartiers d'affaires de la ville. Ces résultats peuvent contribuer à la réflexion des décideurs sur la mobilité du care, et plus généralement sur la mobilité des piétons. La méthode développée dans R est reproductible à d'autres zones urbaines et à d'autres groupes de personnes utilisant d'autres modes, comme le vélo.
+
+Cette étude fait partie d'une thèse de doctorat développée par <a href="https://perso.univ-rennes2.fr/arthur.ducasse" target="_blank">Arthur Ducasse</a> et s'inscrit également dans les activités du <a href="https://modural.hypotheses.org/le-projet" target="_blank" rel="noopener">programme Modural</a> financé par l'Agence Nationale de la Recherche.
+
+#### Mots clés
+
+<i>piétons ; typologie ; mobilité du care ; enquête ménages déplacements ; analyse factorielle, classification, Bogotá, R script</i>
+
+--> Accès au <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.md" target="_blank" rel="noopener"><strong>script markdown avec coloration syntaxique</strong></a><br>
+--> Accès au <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.Rmd" target="_blank" rel="noopener"><strong>script R markdown</strong></a><br>
+Accès au script R markdown --> Accès à <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.html" target="_blank" rel="noopener"><strong>la sortie HTML</strong></a><br>
+--> Accès aux <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/raw/main/data.zip" target="_blank" rel="noopener"><strong>données traitées dans le script</strong></a>
+<br>
+<br>
