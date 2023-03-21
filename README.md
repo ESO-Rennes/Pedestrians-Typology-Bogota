@@ -2,7 +2,7 @@
 ----- ENGLISH VERSION ----- <br>
 <i>This work was carried out by <a href="https://perso.univ-rennes2.fr/arthur.ducasse" target="_blank">Arthur Ducasse</a> and <a href="https://perso.univ-rennes2.fr/florent.demoraes" target="_blank" rel="noopener">Florent Demoraes</a> at the CNRS ESO research unit in Rennes (France), in March 2023.</i>
 
-## Devising of a pedestrian typology from a household travel survey and mapping of the resulting profiles 
+## Devising a pedestrian typology from a household travel survey and mapping the resulting profiles 
 
 This blog presents a method for devising a typology of walkers based on a Household Travel Survey conducted in 2019 in Bogotá, and available in <a href="https://www.simur.gov.co/encuestas-de-movilidad" target="_blank"> open data</a>. The method relies on Factorial Analysis of Mixed Data and Hierarchical  Agglomerative Clustering. The analysis combines sociodemographic characteristics of 14,000 individuals and variables describing their mobility practices. Maps showing the concentration of the places of residence of the six walker profiles are also proposed. The profiles clearly show the mobility of the caretaker, and more surprisingly, the practice of walking among more affluent individuals living in the business districts of the city. These results can contribute to the reflections of decision-makers on the mobility of care, and more generally on pedestrian mobility. The method developed in R is replicable to other urban areas and other groups of people using other modes, such as cycling.
 
