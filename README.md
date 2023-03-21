@@ -13,8 +13,8 @@ This study is part of the activities of the <a href="https://modural.hypotheses.
 
 --> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.md" target="_blank" rel="noopener"><strong>markdown script with syntax highlighting</strong></a><br>
 --> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.Rmd" target="_blank" rel="noopener"><strong>R markdown script</strong></a><br>
---> Access to the <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.html" target="_blank" rel="noopener"><strong>HTML laid-out output</strong></a>
---> Access to the <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/data.zip" target="_blank" rel="noopener"><strong>the data processed in the script</strong></a>
+--> Access to the <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.html" target="_blank" rel="noopener"><strong>HTML laid-out output</strong></a><br>
+--> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/data.zip" target="_blank" rel="noopener"><strong>the data processed in the script</strong></a>
 
 <br>
 <br>
