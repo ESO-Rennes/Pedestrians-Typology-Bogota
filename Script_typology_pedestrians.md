@@ -84,6 +84,7 @@ fviz_screeplot(res)
 ```r view variables
 print(as.data.frame(colnames(VariablesTypoUltraMarcheurs)))
 ```
+
 ## Calcul d'une deuxième AFDM après passage des variables peu discriminantes en supplémentaire
 ```r second FAMD, message=FALSE, warning=FALSE, error=FALSE, fig.height=15, fig.width=15
 
@@ -100,12 +101,13 @@ get_eigenvalue(res)
 fviz_screeplot(res)
 
 ```
+
 ## Calcul de la CAH (Classification Ascendante Hiérarchique) et graphiques
 ```r clustering calculation, message=FALSE, error=FALSE, warning=FALSE, fig.height=20, fig.width=20
 nbclasses <- 6 # Definition du nombre de classes. 
 res.hcpc <- HCPC(res, kk=Inf, nb.clust=nbclasses, consol=FALSE, graph = FALSE) 
 #consol = FALSE signifie qu'on n'applique pas a l'issue de la CAH une consolidation par les k-means. graph = FALSE pour ne pas afficher les sorties graphiques. kk=Inf signifie qu'aucune partition prealable n'est réalisée.
-#plot(res.hcpc, choice="tree", tree.barplot = FALSE, cex = 0.01)
+plot(res.hcpc, choice="tree", tree.barplot = FALSE, cex = 0.01)
 #Affichage dans le plan factoriel des classes
 fviz_cluster(res.hcpc,
              shape = 20,
