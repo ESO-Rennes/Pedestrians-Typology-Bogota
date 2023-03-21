@@ -17,6 +17,8 @@ This study is part of a PhD thesis developped by <a href="https://perso.univ-ren
 --> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/raw/main/data.zip" target="_blank" rel="noopener"><strong>the data processed in the script</strong></a>
 <br>
 <br>
+<br>
+<br>
 
 
 ----- VERSION FRANCAISE ----- <br>
@@ -34,7 +36,7 @@ Cette étude fait partie d'une thèse de doctorat développée par <a href="http
 
 --> Accès au <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.md" target="_blank" rel="noopener"><strong>script markdown avec coloration syntaxique</strong></a><br>
 --> Accès au <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.Rmd" target="_blank" rel="noopener"><strong>script R markdown</strong></a><br>
-Accès au script R markdown --> Accès à <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.html" target="_blank" rel="noopener"><strong>la sortie HTML</strong></a><br>
+--> Accès à <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.html" target="_blank" rel="noopener"><strong>la sortie HTML</strong></a><br>
 --> Accès aux <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/raw/main/data.zip" target="_blank" rel="noopener"><strong>données traitées dans le script</strong></a>
 <br>
 <br>
