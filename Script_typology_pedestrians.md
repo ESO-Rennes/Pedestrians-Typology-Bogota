@@ -2,16 +2,7 @@
 title: "Construction d'une typologie de piétons à partir d'une enquête ménages déplacements et représentation cartographique des profils : l'exemple de Bogotá"
 author: "[Arthur Ducasse](https://perso.univ-rennes2.fr/arthur.ducasse), [Florent Demoraes](https://perso.univ-rennes2.fr/florent.demoraes)"
 date: "2023-03-03"
-output: 
-  html_document:
-    toc: yes
-    toc_float:
-      collapsed: yes
-      smooth_scroll: yes
-    number_sections: true
-  word_document:
-    toc: yes
-    number_sections: true
+
 ---
 
 ```r setup, include=FALSE
