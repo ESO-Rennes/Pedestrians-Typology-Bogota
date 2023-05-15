@@ -11,9 +11,9 @@ This study is part of a PhD thesis developped by <a href="https://perso.univ-ren
 #### Key words 
 <i>pedestrians; typology; care mobility; household travel survey; factor analysis, clustering, Bogotá, R script</i>
 
---> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.md" target="_blank" rel="noopener"><strong>markdown script with syntax highlighting</strong></a><br>
---> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.Rmd" target="_blank" rel="noopener"><strong>R markdown script</strong></a><br>
---> Access to the <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians.html" target="_blank" rel="noopener"><strong>HTML laid-out output</strong></a><br>
+--> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians_ENG.md" target="_blank" rel="noopener"><strong>markdown script with syntax highlighting</strong></a><br>
+--> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians_ENG.Rmd" target="_blank" rel="noopener"><strong>R markdown script</strong></a><br>
+--> Access to the <a href="https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/blob/main/Script_typology_pedestrians_ENG.html" target="_blank" rel="noopener"><strong>HTML laid-out output</strong></a><br>
 --> Access to the <a href="https://github.com/ESO-Rennes/Pedestrians-Typology-Bogota/raw/main/data.zip" target="_blank" rel="noopener"><strong>the data processed in the script</strong></a>
 <br>
 <br>
