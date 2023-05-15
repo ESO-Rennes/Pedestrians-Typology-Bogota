@@ -1,14 +1,7 @@
 ---
 title: "Devising a typology of pedestrians from a household travel survey and mapping the resulting profiles : the example of Bogotá"
-author: "[Arthur Ducasse](https://perso.univ-rennes2.fr/arthur.ducasse), [Florent Demoraes](https://perso.univ-rennes2.fr/florent.demoraes)"
+author: "Arthur Ducasse: https://perso.univ-rennes2.fr/arthur.ducasse, Florent Demoraes: https://perso.univ-rennes2.fr/florent.demoraes"
 date: "2023-03-03"
-output: 
-  html_document:
-    toc: yes
-    number_sections: true
-  word_document:
-    toc: yes
-    number_sections: true
 ---
 
 ```{r setup, include=FALSE}
